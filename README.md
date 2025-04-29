@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahya Shanawaz Mohammed</h1>
-<h3 align="left">Hi there! I’m a passionate Web Developer dedicated to crafting clean, scalable, and user-friendly web applications. 💻 I specialize in HTML5, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS and love turning ideas into interactive digital experiences. I believe in writing clean, maintainable code, following best practices, and continuously learning to stay ahead in the ever-evolving tech landscape.</h3>
-<h2 color="orange" align="center"> I want to make ";" next ".";</h2>
+<h3 align="left">Hi there! I’m a passionate Web Developer dedicated to crafting clean, scalable, and user-friendly web applications. 💻 I specialize in HTML5, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS and love turning ideas into interactive digital experiences. 
+I believe in writing clean, maintainable code, following best practices, and continuously learning to stay ahead in the ever-evolving tech landscape.</h3>
+<h2 color="orange" align="left"> I want to make ";" next ".";</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaan-77&label=Profile%20views&color=0e75b6&style=flat" alt="shaan-77" /> </p>
 
